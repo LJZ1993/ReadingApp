@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navi_1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="navi_1" />
+        <item
+            android:id="@+id/navi_2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="navi_2" />
+        <item
+            android:id="@+id/navi_3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="navi_3" />
+    </group>
+
+</menu>

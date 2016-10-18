@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="book_title">
+        <item>title1</item>
+        <item>title2</item>
+        <item>title3</item>
+        <item>title4</item>
+    </array>
+</resources>
